@@ -9,7 +9,7 @@
     "react-router-dom": "^7.0.0",
     "react-scripts": "^5.0.1",
     "styled-components": "^6.0.0",
-    "styled-reset": "^4.4.6"
+    "styled-reset": "^5.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
